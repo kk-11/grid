@@ -1,0 +1,24 @@
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+button {
+  margin: 0;
+  padding: 0.5em 1em;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+}
+
+body,
+html,
+#root {
+  margin: 0;
+  overscroll-behavior: none;
+  height: 100%;
+}
